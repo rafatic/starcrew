@@ -26,5 +26,6 @@ Front end wise, Jquery and Bootstrap are used, but new tools can be added if you
 
 ## Thanks
 
-Original idea : [atyai](https://www.reddit.com/user/atyai)
-Server and Alpha feedback : [Star citizen Organization : Black Star Initiative](https://robertsspaceindustries.com/orgs/TBSI)
+Original idea : [atyai](https://www.reddit.com/user/atyai).
+
+Server and Alpha feedback : [Star citizen Organization : Black Star Initiative](https://robertsspaceindustries.com/orgs/TBSI).
