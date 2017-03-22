@@ -5,6 +5,8 @@
 
 A user can use “StarCrew” in two different ways, he can create his own mission and recruit other players or apply for other people’s missions and join a pre-existing crew.
 
+An alpha version of the app is available[here](http://starcrew.black-star-initiative.com/)
+
 
 
 ## Official Documentation
