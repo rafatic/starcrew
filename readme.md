@@ -1,27 +1,28 @@
-# Laravel PHP Framework
+# Star Crew
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+“StarCrew” is an application that allows player from around the world to find a crew for their mission depending on the language they speak, when they play and what they want to achieve.
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+A user can use “StarCrew” in two different ways, he can create his own mission and recruit other players or apply for other people’s missions and join a pre-existing crew.
+
+
 
 ## Official Documentation
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+Documentation for the app is available in this repository under "docs"
 
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+Feel free to contribute ! Instructions necessary to contribute are available in the documentation.
+Feel also free to contact me if you need details.
 
-## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+## Tech Stack
 
-## License
+This project mainly uses [Laravel 5.2](https://laravel.com/docs/5.2) as a backend technology.
+Front end wise, Jquery and Bootstrap are used, but new tools can be added if you feel like it is needed.
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+## Thanks
+
+Original idea : [atyai](https://www.reddit.com/user/atyai)
+Server and Alpha feedback : [Star citizen Organization : Black Star Initiative](https://robertsspaceindustries.com/orgs/TBSI)
